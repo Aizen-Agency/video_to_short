@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+
+# Input/Output directories
+inputs/
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.webm
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
